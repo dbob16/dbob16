@@ -8,4 +8,4 @@ Minted in the early 1990's, I slowly grew up into the era of the Internet. Curre
 
 ## Donations
 
-If you like what I do, or benefited from it, please consider [donating](https://paypal.me/dgilluly). I don't paywall any of my projects, so don't feel obligated to. But I'd appreciate it.
+If you like what I do, or benefited from it, please consider [donating](https://ko-fi.com/techguydilan). I don't paywall any of my projects, so don't feel obligated to. But I'd appreciate it.

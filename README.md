@@ -4,7 +4,7 @@ Minted in the early 1990's, I slowly grew up into the era of the Internet. Curre
 
 ## My work you might be interested in
 
-- **Ticket Auction Manager**: A Microsoft Access database which I created for an annual chinese auction type of event. You can download the [binary release](https://github.com/dbob16/ticket-auction-manager/releases/tag/release) or the [source files](https://github.com/dbob16/ticket-auction-manager) for it. Binary release is for if you want an out-of-box experience, and the source file can be edited if you want to brand it, learn from it, or customize other aspects of it.
+- **Ticket Auction Manager 3**: Originally a Microsoft Access database, I eventually converted it to a MariaDB backend, then to entirely Python using FastAPI and TTKBootstrap libraries. And now it's using Sveltekit and Python (with FastAPI). Check it out either on its [Repo](https://www.github.com/dbob16/tam3) or [Releases](https://www.github.com/dbob16/tam3/releases).
 
 ## Donations
 
